@@ -18,6 +18,6 @@ fun main() {
         }
     }
     if (ada == false) {
-        println("Tidak ditemukan kelipatan $search pada elemen index")
+        println("Tidak ditemukan kelipatan bilangan $search pada elemen index")
     }
 }
